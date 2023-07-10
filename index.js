@@ -4,8 +4,8 @@
 // @version      0.11
 // @description  try to take over the world!
 // @author       me
-// @match        *://*facebook*/*
-// @match        *://*linkedin*/*
+// @match        *://*.facebook.com/*
+// @match        *://*.linkedin.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 // @grant        none
 // ==/UserScript==
