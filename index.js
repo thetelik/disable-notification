@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         New Userscript
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.11
 // @description  try to take over the world!
 // @author       me
-// @match        http://*/*
-// @match        https://*/*
+// @match        *://*facebook*/*
+// @match        *://*linkedin*/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 // @grant        none
 // ==/UserScript==
